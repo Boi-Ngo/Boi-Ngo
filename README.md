@@ -1,4 +1,4 @@
-<a href="https://hits.sh/github.com/Boi-Ngo/"><img alt="Hits" src="https://hits.sh/github.com/Boi-Ngo.svg?style=flat-square&label=Perverts&color=000000&labelColor=000000"/></a> <p align="center"> <img width="540" height="216" alt="download (2)" src="https://github.com/user-attachments/assets/5eb10f7b-5594-47a3-a568-711fbb169295" />
+<a href="https://hits.sh/github.com/Boi-Ngo/"><img alt="Hits" src="https://hits.sh/github.com/Boi-Ngo.svg?style=flat-square&label=Perverts&color=000000&labelColor=000000"/></a> <p align="center"> <img width="1308" height="878" alt="Screenshot 2026-09-06 183603" src="https://github.com/user-attachments/assets/c46925d5-0578-4da9-b4d5-746c80e7a619" />
 
 <!--
 **Boi-Ngo/Boi-Ngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
