@@ -1,4 +1,4 @@
-## HOW do i do this
+<img width="540" height="216" alt="download (2)" src="https://github.com/user-attachments/assets/5eb10f7b-5594-47a3-a568-711fbb169295" />
 
 <!--
 **Boi-Ngo/Boi-Ngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="540" height="432" alt="dwaynebridge" src="https://github.com/user-attachments/assets/c758b5c4-d69d-4273-bf5e-511c679d9cab" />
+
+
+
 
 
