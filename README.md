@@ -1,4 +1,4 @@
-<img width="540" height="216" alt="download (2)" src="https://github.com/user-attachments/assets/5eb10f7b-5594-47a3-a568-711fbb169295" />
+<p align="center"> <img width="540" height="216" alt="download (2)" src="https://github.com/user-attachments/assets/5eb10f7b-5594-47a3-a568-711fbb169295" />
 
 <!--
 **Boi-Ngo/Boi-Ngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-so, i would edit this but either i cant find the right tut, or im just a dumbass
+<p align="center"> so, i would edit this but either i cant find the right tut, or im just a dumbass
 
 
