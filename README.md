@@ -1,4 +1,11 @@
-<a href="https://hits.sh/github.com/Boi-Ngo/"><img alt="Hits" src="https://hits.sh/github.com/Boi-Ngo.svg?style=flat-square&label=Perverts&color=000000&labelColor=000000"/></a> <p align="center"> <img width="1308" height="878" alt="Screenshot 2026-09-06 183603" src="https://github.com/user-attachments/assets/c46925d5-0578-4da9-b4d5-746c80e7a619" />
+<img width="2000" height="164" alt="image" src="https://github.com/user-attachments/assets/6dbd1129-7f93-49ee-a32c-77d02da11d1e" />
+<br>
+<a href="https://hits.sh/github.com/Boi-Ngo/"><img alt="Hits" src="https://hits.sh/github.com/Boi-Ngo.svg?style=flat-square&label=Perverts&color=000000&labelColor=000000"/></a> 
+<p align="center"> 
+<img width="411" height="27" alt="Screenshot 2026-09-06 185554" src="https://github.com/user-attachments/assets/986eae8d-a506-4bd2-b8af-49cdd8302372" />
+<br>
+TYSM! pt-hall-of-media
+<img width="1308" height="878" alt="Screenshot 2026-09-06 183603" src="https://github.com/user-attachments/assets/c46925d5-0578-4da9-b4d5-746c80e7a619" />
 
 <!--
 **Boi-Ngo/Boi-Ngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<p align="center"> so, i would edit this but either i cant find the right tut, or im just a dumbass
-
+​<div align= "center"> 
+<img width="2000" height="164" alt="image" src="https://github.com/user-attachments/assets/6dbd1129-7f93-49ee-a32c-77d02da11d1e" />
 
