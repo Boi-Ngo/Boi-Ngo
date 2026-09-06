@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-
+--> 
+so, i would edit this but either i cant find the right tut, or im just a dumbass
 
 
