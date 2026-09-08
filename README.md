@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 --> 
 ​<div align= "center"> 
 
-[ - ATA - ](https://boi--ngo.straw.page/) | [ - STR - ](https://boingo.atabook.org/)
+[ - STR - ](https://boi--ngo.straw.page/) | [ - ATA - ](https://boingo.atabook.org/)
 <br>
 <br>
 <br>
