@@ -28,5 +28,10 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31urhudlquv3olx7cqnrtd36grkm&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=000000&bar_color_cover=true">
+  </a>
+</p>
 <img width="2000" height="164" alt="image" src="https://github.com/user-attachments/assets/6dbd1129-7f93-49ee-a32c-77d02da11d1e" />
 
