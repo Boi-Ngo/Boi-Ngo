@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ​<div align= "center"> 
 
 [ - STR - ](https://boi--ngo.straw.page/) | [ - ATA - ](https://boingo.atabook.org/)
+<p align="center"> DNI list is on my Straw
 <br>
 <br>
 <br>
