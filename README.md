@@ -1,6 +1,6 @@
 <img width="1535" height="17" alt="Screenshot 2026-11-03 233221" src="https://github.com/user-attachments/assets/4593de2d-f4e5-4e70-8b12-1c1737dc7b72" />
-
-<p align="center"><img width="476" height="71" alt="image" src="https://github.com/user-attachments/assets/32e1c450-244a-4361-b61b-1c959491fb97" /><img width="476" height="71" alt="image" src="https://github.com/user-attachments/assets/32e1c450-244a-4361-b61b-1c959491fb97" />
+<p align="center">
+<img width="476" height="71" alt="image" src="https://github.com/user-attachments/assets/32e1c450-244a-4361-b61b-1c959491fb97" />
 
 <!--
 **Boi-Ngo/Boi-Ngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,5 +29,5 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<img width="476" height="71" alt="image" src="https://github.com/user-attachments/assets/32e1c450-244a-4361-b61b-1c959491fb97" /><img width="476" height="71" alt="image" src="https://github.com/user-attachments/assets/32e1c450-244a-4361-b61b-1c959491fb97" />
+<img width="476" height="71" alt="image" src="https://github.com/user-attachments/assets/32e1c450-244a-4361-b61b-1c959491fb97" />
 <img width="1535" height="17" alt="Screenshot 2026-11-03 233221" src="https://github.com/user-attachments/assets/4593de2d-f4e5-4e70-8b12-1c1737dc7b72" />
