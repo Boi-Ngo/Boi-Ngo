@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --> 
 ​<div align= "center"> 
 
-[ - 𝑺𝑻𝑹 - ](https://boi--ngo.straw.page/) ~ [ - 𝑨𝑻𝑨 - ](https://boingo.atabook.org/)
+[ - 𝑺𝑻𝑹 - ](https://myronnie.straw.page/) ~ [ - 𝑨𝑻𝑨 - ](https://boingo.atabook.org/)
 <p align="center"> 𝐃𝐍𝐈 𝐢𝐬 𝐨𝐧 𝐦𝐲 𝐬𝐭𝐫𝐚𝐰 | 𝐛𝐞𝐢𝐧𝐠 𝐮𝐩𝐝𝐚𝐭𝐞𝐝 !
 <br>
 <br>
